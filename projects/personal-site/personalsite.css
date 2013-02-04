@@ -121,7 +121,6 @@ li {
 
 #school{
 	float: right;
-	margin-top: -10px;
 }
 
 #contact{
@@ -131,6 +130,23 @@ li {
 
 #work{
 	margin-top: 100px;
+}
+
+#upvote{
+	border: none;
+	padding-left: 550px;
+	margin-top: -85px;
+}
+
+#downvote{
+	border: none;
+	padding-left: 300px;
+	margin-top: -85px;
+}
+
+#ihop{
+	float: right;
+	margin-top:-85px;
 }
 
 #footer{
