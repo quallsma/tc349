@@ -149,7 +149,7 @@ li {
 	margin-top:-85px;
 }
 
-#footer{
+footer{
 	font-size: 12px;
 	margin-top: 160px;
 	margin-bottom: -60px;
@@ -161,7 +161,7 @@ li {
 	padding-right: 15px;
 	padding-top: 5px;
 	color: #CCCCCC;
-	
+	clear: both;
 }
 
 #footer img{
