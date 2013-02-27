@@ -1,0 +1,3 @@
+	From the first look, Heroku looks like an arts and crafts site. The colors used for it are very dark, and don't match, and may be consider unprofessional for a business site. As far as the layout, it's very typical for any site, with a header and a footer.
+
+	The images in the front page are confusing, and without a description on the front page to tell what the company is about, it can mislead. You could easily tell that the company is based and influence by an Asian theme, with origami and Chinese calendar characters. And with the use of different css files, many of the tabs change display and that's very inconsistent.
