@@ -1,0 +1,3 @@
+The MSU mobile site looks plain and simple, and easy to use. Through the four years of being here, I've never used the site. It has a lot of useful content, and the same amount as the normal website. Fast loading with no big images on the pages.
+
+The mobile site is very similar to the regular website, shares the content, which makes me believe the difference between the two is just the css file use to design the website.
